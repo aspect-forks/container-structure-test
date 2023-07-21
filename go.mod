@@ -48,3 +48,5 @@ require (
 	golang.org/x/term v0.7.0 // indirect
 	golang.org/x/tools v0.7.0 // indirect
 )
+
+replace github.com/GoogleContainerTools/container-diff => github.com/alexeagle/container-diff v0.17.0-fix1
